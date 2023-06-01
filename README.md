@@ -1,2 +1,2 @@
 # Magazine
-English Magzine
+**English Magazine**
